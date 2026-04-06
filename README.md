@@ -64,7 +64,7 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 - CEH Practical Labs
 - CCNA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM
 - MCSA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM
-
+- TOEIC RL 815
 ---
 
 ## Projects
