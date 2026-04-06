@@ -15,10 +15,10 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 
 | Skill                                         | Associated Project |
 |-----------------------------------------------|------------------|
-| SIEM Implementation & Log Analysis (Splunk, Wazuh) | <a href="https://github.com/dongmt2/soc-lab">SOC Monitoring Lab</a> |
-| Network Traffic Monitoring (Suricata, pfSense) | <a href="https://github.com/dongmt2/pfsense-suricata">IDS/IPS Lab</a> |
-| Endpoint Monitoring & HIDS (Wazuh Agent)      | SOC Monitoring Lab |
-| Web Vulnerability Testing (SQLi, XSS)         | <a href="https://github.com/dongmt2/web-pentest-lab">DVWA Pentest Lab</a> |
+| SIEM Implementation & Log Analysis (Splunk)  | <a href="https://github.com/dongmt2/soc-lab">SOC Monitoring Lab</a> |
+| Endpoint Monitoring & HIDS (Wazuh Agent)      | <a href="https://github.com/dongmt2/soc-lab">SOC Monitoring Lab</a> |
+| Network Traffic Monitoring (Suricata, pfSense)| <a href="https://github.com/dongmt2/pfsense-suricata">IDS/IPS Lab</a> |
+| Web Vulnerability Testing (SQLi, Privilege Escalation) | <a href="https://github.com/dongmt2/web-pentest-lab">Moviescope Pentest Lab</a> |
 
 
 ---
