@@ -32,11 +32,7 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 </div>
 
 ### Network Security (NIDS / Firewall)
-<div>
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-pfSense-212121?&style=for-the-badge&logo=pfSense&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/-Check_Point-FFCC00?&style=for-the-badge&logoColor=black" /> <img src="https://img.shields.io/badge/-Sophos-0057B8?&style=for-the-badge&logo=Sophos&logoColor=white" /> <img src="https://img.shields.io/badge/-Cisco_ASA-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
 
 ### Endpoint Security (HIDS / EDR)
 <div>
