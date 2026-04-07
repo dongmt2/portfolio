@@ -91,6 +91,12 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
   - Create reverse shell
 - Privilege Escalation and create RDP backdoor
 
+### <a href="https://github.com/dongmt2/maverick">4. Reverse RDP via LNK — Attack Simulation</a>
+
+- Simulated the "Maverick" technique: Reverse RDP connection using obfuscated LNK files
+- Bypassed Windows Defender using Base64 + cmd loop obfuscation
+- Built complete phishing infrastructure: Mail server (Hmail), C2 listener (UltraVNC), IIS payload hosting
+- Successfully established reverse VNC connection on port 5500
 ---
 
 ## SOC Workflow Understanding
