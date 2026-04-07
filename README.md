@@ -69,7 +69,7 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 
 ## Projects
 
-### 1. SOC Monitoring Lab
+### 1. <a href="https://github.com/dongmt2/soc-lab">SOC Monitoring Lab</a>
 - Built a mini SOC environment using:
   - Splunk + Wazuh
   - Windows logs + Sysmon
@@ -80,7 +80,7 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 
 ---
 
-### 2. pfSense + Suricata IDS/IPS Lab
+### 2. <a href="https://github.com/dongmt2/pfsense-suricata">pfSense + Suricata IDS/IPS Lab</a> 
 - Deployed firewall with IDS/IPS
 - Detected:
   - Port scanning (Nmap)
@@ -89,11 +89,11 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 
 ---
 
-### 3. Web Pentest Lab (DVWA & Custom Web)
+### 3. <a href="https://github.com/dongmt2/web-pentest-lab">Web Pentest Lab (Custom Web)</a> 
 - Exploited:
   - SQL Injection (manual + SQLmap)
-  - Cross-Site Scripting (XSS)
-- Analyzed vulnerabilities and proposed mitigation
+  - Create reverse shell
+- Privilege Escalation and create RDP backdoor
 
 ---
 
