@@ -37,7 +37,6 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 ### Endpoint Security (HIDS / EDR)
 <div>
     <img src="https://img.shields.io/badge/-Wazuh_Agent-005571?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ### Web Security & Pentesting
