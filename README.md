@@ -61,7 +61,7 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 - TOEIC RL 815
 ---
 
-## Projects
+## <a href="https://github.com/dongmt2/project">Project</a>
 
 ### <a href="https://github.com/dongmt2/soc-lab">1. SOC Monitoring Lab</a>
 - Built a mini SOC environment using:
