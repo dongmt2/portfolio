@@ -55,7 +55,7 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 
 ## Certifications & Learning
 
-- TryHackMe (Top 7% ranking)
+- TryHackMe (Top 4% ranking)
 - CCNA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM
 - MCSA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM
 - TOEIC RL 815
