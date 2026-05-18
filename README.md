@@ -55,10 +55,11 @@ I aim to become a SOC Analyst (Tier 1), focusing on log analysis, threat detecti
 
 ## Certifications & Learning
 
-- TryHackMe (Top 4% ranking)
-- CCNA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM
-- MCSA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM
-- TOEIC RL 815
+- <a href="https://tryhackme.com/p/AT19N0107">TryHackMe (Top 4% ranking)</a>
+- <a href="https://drive.google.com/file/d/1nYrGcva4kf4QJwpLQNlQaR6zNRLJKM9-/view?usp=sharing">CCNA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM</a>
+- <a href="https://drive.google.com/file/d/1rJNgPTFlKepmX7lqOt58F26vSfOu5X9P/view?usp=sharing">MCSA - Trung tâm tin học - Đại học Khoa học tự nhiên TP. HCM</a> 
+- <a href="https://drive.google.com/file/d/1TnuuVnnfR7IWxDKpUD-E44B1q_D0Vu3C/view?usp=sharing">TOEIC RL 815</a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/OVARFFZK8QYF">Google Cybersecurity Certificate </a>
 ---
 
 ## <a href="https://github.com/dongmt2/project">Project</a>
